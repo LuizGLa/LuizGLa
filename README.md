@@ -13,8 +13,6 @@
   
 
 
-
-### Glad to see you here!  
 Minha jornada na Tecnologia da Informação começou há três anos, quando entrei no mundo profissional como técnico de informática. Desde então, tenho trilhado um caminho de aprendizado constante e evolução. Hoje, como desenvolvedor web, transformo ideias em soluções digitais inovadoras, aproveitando cada desafio como uma oportunidade para crescer e contribuir para o sucesso da equipe e da empresa.
 
 - Comunicação, Trabalho em Equipe, Resolução de Problemas e Adaptabilidade.
@@ -51,11 +49,9 @@ Minha jornada na Tecnologia da Informação começou há três anos, quando entr
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table>
 
-
-
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGLa&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
