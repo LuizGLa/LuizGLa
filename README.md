@@ -17,9 +17,9 @@ Minha jornada na Tecnologia da Informação começou há três anos, quando entr
 
 - Comunicação, Trabalho em Equipe, Resolução de Problemas e Adaptabilidade.
 - Nest.js, Node e PostgreSQL: Sou proficientemente hábil em desenvolvimento de backend, utilizando 
- tecnologias como Framework Nest.js e Node.js, além de trabalhar com bancos de dados PostgreSQL para criar aplicações 
+ tecnologias como Framework Nest.js/Node.js, além de trabalhar com bancos de dados PostgreSQL para criar aplicações 
  robustas e escaláveis.
-- Vue.js e JavaScript: Tenho experiência sólida em desenvolvimento de front-end, utilizando Framework Vue.js e JavaScript para criar interfaces de usuário interativas e responsivas.
+- Vue.js e JavaScript: Tenho experiência sólida em desenvolvimento de front-end, utilizando Framework Vue.js/JavaScript para criar interfaces de usuário interativas e responsivas.
 - Figma: Criação de designs digitais, como sites e aplicativos. É uma ferramenta de design que me ajuda a desenhar, organizar e compartilhar meus projetos de forma fácil e colaborativa.
   
 
