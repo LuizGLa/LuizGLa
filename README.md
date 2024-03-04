@@ -13,13 +13,13 @@
   
 
 
-Minha jornada na Tecnologia da Informação começou há três anos, quando entrei no mundo profissional como técnico de informática. Desde então, tenho trilhado um caminho de aprendizado constante e evolução. Hoje, como desenvolvedor web, transformo ideias em soluções digitais inovadoras, aproveitando cada desafio como uma oportunidade para crescer e contribuir para o sucesso da equipe e da empresa.
+Minha jornada na Tecnologia da Informação começou há três anos, quando entrei no mundo profissional como técnico de informática. Desde então, tenho trilhado um caminho de aprendizado constante e evolução. Hoje, como desenvolvedor web, transformo ideias em soluções digitais inovadoras, aproveitando cada desafio como uma oportunidade para crescer e evoluir profissionalmente.
 
 - Comunicação, Trabalho em Equipe, Resolução de Problemas e Adaptabilidade.
-- Nest.js, Node e PostgreSQL: Sou proficientemente hábil em desenvolvimento de backend, utilizando 
+- Nest.js/Node e PostgreSQL: Sou proficientemente hábil em desenvolvimento de backend, utilizando 
  tecnologias como Framework Nest.js/Node.js, além de trabalhar com bancos de dados PostgreSQL para criar aplicações 
  robustas e escaláveis.
-- Vue.js e JavaScript: Tenho experiência sólida em desenvolvimento de front-end, utilizando Framework Vue.js/JavaScript para criar interfaces de usuário interativas e responsivas.
+- Quasar/Vue.js/JavaScript: Tenho experiência sólida em desenvolvimento de front-end, utilizando Framework Vue.js/JavaScript para criar interfaces de usuário interativas e responsivas.
 - Figma: Criação de designs digitais, como sites e aplicativos. É uma ferramenta de design que me ajuda a desenhar, organizar e compartilhar meus projetos de forma fácil e colaborativa.
   
 
